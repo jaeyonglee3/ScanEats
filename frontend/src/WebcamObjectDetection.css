@@ -1,0 +1,14 @@
+.video-container {
+  position: relative;
+}
+  
+.video {
+  width: 640px;
+}
+
+.overlay-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+  
